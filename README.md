@@ -16,7 +16,7 @@ npm start
 
 ### Load GraphQL playground
 
-Open https://localhost:3000/graphql
+Open http://localhost:3000/graphql
 
 ### Run some queries
 
