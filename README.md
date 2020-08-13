@@ -22,8 +22,7 @@ Open https://localhost:3000/graphql
 
 Retrieve all users
 
-```javascript
-// Get all users
+```
 query {
   users {
       firstName
@@ -34,8 +33,7 @@ query {
 
 Retrieve own user
 
-```js
-// Get all users
+```
 query {
   me {
     firstName
@@ -46,8 +44,7 @@ query {
 
 Retrieve user by Id
 
-```javascript
-// Get user by Id
+```
 query {
   userById(id: 1){
     firstName
